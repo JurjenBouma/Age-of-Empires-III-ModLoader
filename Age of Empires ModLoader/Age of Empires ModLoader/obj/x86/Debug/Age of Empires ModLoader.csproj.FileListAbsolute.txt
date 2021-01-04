@@ -1,0 +1,25 @@
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\bin\Debug\Age of Empires ModLoader.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\bin\Debug\Age of Empires ModLoader.pdb
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.Form1.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.Properties.Resources.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\Age of Empires ModLoader.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\Age of Empires ModLoader\obj\x86\Debug\Age of Empires ModLoader.pdb
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age of Empires ModLoader.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age of Empires ModLoader.pdb
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\bin\Debug\Age of Empires ModLoader.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\bin\Debug\Age of Empires ModLoader.pdb
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.Form1.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\bin\Debug\Resources\ico.png
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\bin\Debug\Resources\uitleg.txt
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\bin\Debug\Resources\vanilla.aoemod
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.FormOptions.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.FormHelp.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.FormBarExtract.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Age of Empires ModLoader\Age of Empires ModLoader\obj\x86\Debug\Age_of_Empires_ModLoader.FormModfileCombiner.resources
